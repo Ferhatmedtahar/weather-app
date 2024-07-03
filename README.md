@@ -85,7 +85,7 @@ const fetchWeatherData = async (lat, lon) => {
   const data = await response.json();
   return data;
 };
-
+```
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
