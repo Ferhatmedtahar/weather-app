@@ -56,15 +56,6 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 2. Open your browser and navigate to `http://localhost:3000`.
 
-## Project Structure
-
-- `public/`: Contains the public assets and the main `index.html`.
-- `src/`: Contains the source code of the application.
-  - `components/`: Contains the React components.
-  - `App.js`: The main component.
-  - `index.js`: Entry point of the application.
-  - `WeatherComponent.js`: Component for displaying weather icons and information.
-  - `api.js`: Utility for making API requests.
 
 ## Usage
 
